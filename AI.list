@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
+
+# NAME: Gemini
+DOMAIN-SUFFIX,analytics.google.com
